@@ -1,0 +1,23 @@
+.ButtonClass {
+    position: absolute;
+    left: 55px;
+    top: 30px;
+  }
+  
+  .validationContainer {
+    position: absolute;
+    top: 85px;
+    left: 53px;
+  }
+  
+  .signatureConatiner {
+    display: flex;
+    flex-direction: column;
+    height: 150px;
+  }
+  
+  input#AbbSign {
+    width: 22px;
+    height: 17px;
+  }
+  
